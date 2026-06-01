@@ -93,3 +93,5 @@ desktop.ini
 
 uploaded_docs/
 audio_files/
+*.rsf
+*.drawio
