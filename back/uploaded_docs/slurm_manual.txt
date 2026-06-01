@@ -1,1 +1,0 @@
-The SLURM workload manager provides a robust framework for parallel computing. It handles node allocation efficiently.
