@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+google-generativeai
+gTTS
+PyPDF2
+chardet
+python-multipart
